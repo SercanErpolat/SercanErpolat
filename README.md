@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="[![Myskills](https://skills.thijs.gg/icons?i=html,css,bootstrap,sass,js,ts,react,py,django,figma&theme=dark)](https://skills.thijs.gg)" />
+  <a href="[![Myskills](https://skills.thijs.gg/icons?i=html,css,bootstrap,sass,js,ts,react,py,django,figma&theme=dark)](https://skills.thijs.gg)">
   </a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sercan Erpolat</h1>
+
 <h3 align="center">A determined, hard-working and curious software developer in Turkey.Also a software engineering student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sercanerpolat&label=Profile%20views&color=0e75b6&style=flat" alt="sercanerpolat" /> </p>

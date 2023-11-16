@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,react,py,django&perline=3(https://skillicons.dev)">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,react,py,django" />
   </a>
 </p>

@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="[![Myskills](https://skills.thijs.gg/icons?i=html,css,bootstrap,sass,js,ts,react,py,django,figma&theme=dark)](https://skills.thijs.gg)" />
   </a>
 </p>
-[![Myskills](https://skills.thijs.gg/icons?i=html,css,bootstrap,sass,js,ts,react,py,django,figma&theme=dark)](https://skills.thijs.gg)
 
 <h1 align="center">Hi 👋, I'm Sercan Erpolat</h1>
 <h3 align="center">A determined, hard-working and curious software developer in Turkey.Also a software engineering student.</h3>

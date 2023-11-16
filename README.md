@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="[![Myskills](https://skills.thijs.gg/icons?i=html,css,bootstrap,sass,js,ts,react,py,django,figma&theme=dark)](https://skills.thijs.gg)">
+  <a href="#">[![Myskills](https://skills.thijs.gg/icons?i=html,css,bootstrap,sass,js,ts,react,py,django,figma&theme=dark)](https://skills.thijs.gg)
   </a>
 </p>
 

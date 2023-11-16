@@ -8,9 +8,10 @@
 
 <h3 align="center">A determined, hard-working and curious software developer in Turkey.Also a software engineering student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sercanerpolat&label=Profile%20views&color=0e75b6&style=flat" alt="sercanerpolat" /> </p>
+<p align="left">Hello, I am Sercan. I'm a software engineering student. I have been following technology for a long time. Software engineering is my future and the profession of the world's future. That's why I write code every day. I chose this profession because I am determined, excited and curious about software.</p>
+<p align="left"> I always aim to write the most functional, workable and readable code.</p>
 
-<p align="left"> <a href="https://twitter.com/sercanerpolat99" target="blank"><img src="https://img.shields.io/twitter/follow/sercanerpolat99?logo=twitter&style=for-the-badge" alt="sercanerpolat99" /></a> </p>
+<p align="left"> I am currently focusing on javascript, react and pyhton technologies.</p>
 
 - 🌱 I’m currently learning **React**
 

@@ -15,8 +15,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SercanErpolat](https://github.com/SercanErpolat)
-
 - 📫 How to reach me **srcn.erplt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
